@@ -52,10 +52,5 @@
     Questions:
     
     - Predicting the future variants of COVID-19 by examining the genome sequences of past variants
-    - 
-  
-    
-
-
- 
-    -
+    - Did the researchers establish causality, correlation, dependence, or some other kind of relationship with the past and anticipated future variants of the virus?
+    - Comparing genome sequences of different strains of the COVID -19 virus
