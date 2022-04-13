@@ -6,9 +6,13 @@
     a) GROUP MEMBERS:
     
     MRUNAL TILEKAR - 801257239
+    
     PRATHEEKA THUMMALA - 801255442
+    
     SHIVANJANI PATHIPAKA - 801259672
+    
     SREELEKHA PASIKANTI - 801209427
+    
     VINEELA PUNURU - 801263256
     
     b) Communication plan to include project artifact repository:
@@ -21,7 +25,7 @@
 2) Selection of data to analyze from the Open Data Registry for Amazon Web Services https://registry.opendata.aws/
    - Dataset:
 
-3) Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem, or opportunity):
+3) Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem, or opportunity)
     - 
-5) Research Objectives and Question(s) (what you are trying to describe or predict with the data):
+4) Research Objectives and Question(s) (what you are trying to describe or predict with the data)
     -
