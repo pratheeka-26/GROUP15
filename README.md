@@ -25,9 +25,11 @@
 
 2) Selection of data to analyze from the Open Data Registry for Amazon Web Services https://registry.opendata.aws/
    - Dataset:
-3) Business Problem or Opportunity, Domain Knowledge:
-    - 
+  
+
+
 4) Research Objectives and Questions:
+5) Business Problem or Opportunity, Domain Knowledge:
   
     
 
