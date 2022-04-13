@@ -24,12 +24,14 @@
     - Online Meeting: Zoom
 
 2) Selection of data to analyze from the Open Data Registry for Amazon Web Services https://registry.opendata.aws/
-   - Dataset:
+   - Dataset: https://registry.opendata.aws/ncbi-covid-19/
   
+   This dataset include all records containing sequence associated with the novel corona virus      submitted to National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA)
+
+3) Business Problem or Opportunity, Domain Knowledge:
 
 
 4) Research Objectives and Questions:
-5) Business Problem or Opportunity, Domain Knowledge:
   
     
 
