@@ -14,7 +14,11 @@ VINEELA PUNURU(801263256)
 
 # COMMUNICATION PLAN
 
-1) We have created a github repository: 
+1) Github repository:  https://github.com/pratheeka-26/GROUP15
+
+2) In-person meeting: LOCATION: UNCC LIBRARY
+
+
 
 
 
