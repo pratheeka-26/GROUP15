@@ -3,6 +3,7 @@
 **DELIVERABLE 1**
 
 1) TEAM:
+
     a) GROUP MEMBERS:
     
     MRUNAL TILEKAR - 801257239
@@ -21,11 +22,12 @@
     - Google docs for project notes: https://docs.google.com/document/d/1lYMFVKnC7m6hd3amoliWrMe3PwQq7gRkkNV0x0ypJXg/edit
     - In-person Meeting: LOCATION: UNCC LIBRARY
     - Online Meeting: Zoom
+  
     
 2) Selection of data to analyze from the Open Data Registry for Amazon Web Services https://registry.opendata.aws/
    - Dataset:
 
-3) Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem, or opportunity)
+3) Business Problem or Opportunity, Domain Knowledge:
     - 
-4) Research Objectives and Question(s) (what you are trying to describe or predict with the data)
+5) Research Objectives and Questions: 
     -
