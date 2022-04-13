@@ -10,11 +10,12 @@
     ------ SREELEKHA PASIKANTI - 801209427 ------
     ------ VINEELA PUNURU - 801263256 ------
     
-    b) COMMUNICATION PLAN
-
-1) Github repository:  https://github.com/pratheeka-26/GROUP15
-
-2) In-person meeting: LOCATION: UNCC LIBRARY
+    b)  Communication plan to include project artifact repository:
+    
+    - Github repository:  https://github.com/pratheeka-26/GROUP15
+    - Google docs for project notes: https://docs.google.com/document/d/1lYMFVKnC7m6hd3amoliWrMe3PwQq7gRkkNV0x0ypJXg/edit
+    - In-person Meeting: LOCATION: UNCC LIBRARY
+    -  
 
 
 
