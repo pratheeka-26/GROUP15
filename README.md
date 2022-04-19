@@ -48,6 +48,7 @@ Objectives:
 •	Analyze the data using Amazon Web Services tools and resources
 •	Provide dashboards on total positive cases in each state based on the type of tests performed along with visualizations
 
+
 Questions:
 
 1.	What is the percentage increase or decrease of total death rate in each state ?
