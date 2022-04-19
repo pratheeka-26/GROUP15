@@ -24,23 +24,23 @@
     - Online Meeting: Zoom
 
 2) Selection of data to analyze from the Open Data Registry for Amazon Web Services https://registry.opendata.aws/
-   - Dataset: https://registry.opendata.aws/ncbi-covid-19/
+   - Dataset: https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/
   
-   This dataset include all records containing sequence associated with the novel corona virus      submitted to National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA)
-
+  The AWS COVID-19 data lake allows experimenters to quickly run analyses on the data in place without wasting time extracting and wrangling data from all the available data sources.
+  
 3) Business Problem or Opportunity, Domain Knowledge:
 
-    Big data contains a massive amount of information which we can generate, store, analyze from various industries which includes the healthcare industry. Health         care industry includes hospital records, medical records of patients, results of medical examinations and infrastructure. The health data requires proper             management and analysis in order to derive meaningful information. Public Health and healthcare industries are fully equipped with infrastructure for handling big     data. With strong integration of biomedical and health care data, we can possibly improve the medical therapies and personalized medicine.
+    Big data contains a massive amount of information which we can generate, store, analyze from various industries which includes the healthcare industry. Health care industry includes hospital records, medical records of patients, results of medical examinations and infrastructure. The health data requires proper management and analysis in order to derive meaningful information. Public Health and healthcare industries are fully equipped with infrastructure for handling big data. With strong integration of biomedical and health care data, we can possibly improve the medical therapies and personalized medicine.
 
     USE CASES: 
 
-    LOWERING CHURN: Due to the increase in the number of COVID-19 cases there was a decrease in number of healthcare resources and infrastructure. All over the world,     governments have done the best to their capability to improve the healthcare infrastructure and successfully met the requirements and medical resources have           increased. Compared to pre-covid the churn rate has improved. 
+    LOWERING CHURN: Due to the increase in the number of COVID-19 cases there was a decrease in number of healthcare resources and infrastructure. All over the world, governments have done the best to their capability to improve the healthcare infrastructure and successfully met the requirements and medical resources have ncreased. Compared to pre-covid the churn rate has improved. 
 
-    CAPEX OPTIMIZATION: Due to COVID-19 situation, many companies' capital and investments got affected. Major capital investments such as Stocks, acquisitions cease     after pandemic situation which resulted in increase of CAPEX
+    CAPEX OPTIMIZATION: Due to COVID-19 situation, many companies' capital and investments got affected. Major capital investments such as Stocks, acquisitions cease after pandemic situation which resulted in increase of CAPEX
 
-    CROSS-SELLING: Even Though there was a decrease in many industries including health, in aspects like equipment, awareness and medical resources have increased         rapidly.
+    CROSS-SELLING: Even though there was a decrease in many industries including health, in aspects like equipment, awareness and medical resources have increased rapidly.
 
-    INVENTORY OPTIMIZATION: COVID-19 brings with it widespread lockdowns and transport restrictions this inturn places an inordinate amount of stress on supply           chains. Many planners or warehouse managers have to answer about the inventory status and number of employees availability and workstations that can be used.
+    INVENTORY OPTIMIZATION: COVID-19 brings with it widespread lockdowns and transport restrictions this inturn places an inordinate amount of stress on supply chains. Many planners or warehouse managers have to answer about the inventory status and number of employees availability and workstations that can be used.
 
 4) Research Objectives and Questions:
 
