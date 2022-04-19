@@ -44,13 +44,17 @@
 
 4) Research Objectives and Questions:
 
-   Objectives:
-   
-    - Provide a dashboard which helps us track state-level and county-level infection spread using the genome sequencing dataset.
-    - Analyze the data using Amazon Web Services tools and resources
+Objectives:
+•	Analyze the data using Amazon Web Services tools and resources
+•	Provide dashboards on total positive cases in each state based on the type of tests performed along with visualizations
 
-    Questions:
-    
-    - Predicting the future variants of COVID-19 by examining the genome sequences of past variants
-    - Did the researchers establish causality, correlation, dependence, or some other kind of relationship with the past and anticipated future variants of the virus?
-    - Comparing genome sequences of different strains of the COVID -19 virus
+Questions:
+
+1.	What is the percentage increase or decrease of total death rate in each state ?
+2.	How well did the state handle the pandemic based on the no. of hospitalizations, recovery rate of infected people ?
+3.	Analyzing the number of mild and severe infections based on antibody and antigen tests
+4.	Predicting the increase in probable death rates in near future. 
+5.	Analyzing the data to determine the infection spread based on totalTestsViral, totalTestsPeopleViral and totalTestsEncounterViral
+
+
+
