@@ -45,6 +45,7 @@
 4) Research Objectives and Questions:
 
 Objectives:
+
 •	Analyze the data using Amazon Web Services tools and resources
 
 •	Provide dashboards on total positive cases in each state based on the type of tests performed along with visualizations
