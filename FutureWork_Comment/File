@@ -1,0 +1,13 @@
+1.	What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
+A: The uniqueness about the data lies in the fact that it provides information about total positive tests along with mentioning the number of positive and negative antibody tests, positive and negative antigen tests. The dataset also provides data about the number of people currently hospitalized and discharged and also rate of increase in hospitalization and death rate. 
+Yes, we had to deal with imbalance in the dataset. In the data cleaning process, we have dropped the columns with no data and missing data was replaced with statistically determined values.
+2.	Did you create any new additional features / variables?
+A: No
+3.	What was the process you used for evaluation? 
+A: Regression Metrics: Root Mean Square Error. 
+4.	What were the problems you faced? How did you solve them?
+A: Removed outliers, handled null values in data cleaning. While doing analysis datewise and statewise, we changed the data type of ‘date’ attribute from int64 to datetime for clear visualization. Removed warnings by importing ‘Warning’ library.
+5.	What future work would you like to do? 
+A: We would like to do more advanced ML algorithms for analysis and prediction. This would help in future to take precautions for any future pandemic outbreak
+6.	Instructions for individuals that may want to use your work
+A: Need to download Anaconda for Juypter Notebook and run the notebook files
