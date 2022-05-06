@@ -61,8 +61,8 @@
 
 ## Analysis and Predictions:
 
-- project_deliverable2.ipynb
-- project_deliverable3.ipynb
+- [Deliverable 2](https://github.com/pratheeka-26/GROUP15/blob/1f933469dcb883f673618257011521985d0ab98f/ipynb%20notebooks/project_deliverable2.ipynb)
+- [Deliverable 3](https://github.com/pratheeka-26/GROUP15/blob/1f933469dcb883f673618257011521985d0ab98f/ipynb%20notebooks/project_deliverable3.ipynb)
 
 ## Presentation:
 
