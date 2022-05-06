@@ -66,7 +66,7 @@
 
 ## Presentation:
 
-[<img width="946" alt="image" src="https://user-images.githubusercontent.com/61161754/167058384-5c094fd1-8700-4d82-a5d2-f3e45f179087.png">](https://github.com/pratheeka-26/GROUP15/blob/d86a0a41aceb026d0aa70fd83eb0bbcfbc2d9157/Presentation/PresentationGROUP15.pptx)
+[<img width="946" alt="image" src="https://user-images.githubusercontent.com/61161754/167058384-5c094fd1-8700-4d82-a5d2-f3e45f179087.png">](https://github.com/pratheeka-26/GROUP15/blob/d86a0a41aceb026d0aa70fd83eb0bbcfbc2d9157/Presentation)
 
 ## Results:
 
