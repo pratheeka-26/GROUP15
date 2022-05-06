@@ -70,7 +70,9 @@
 
 ## Results:
 
-<img width="365" alt="image" src="https://user-images.githubusercontent.com/61161754/167044539-9b656398-c5aa-4378-bb15-5561ecbb2b78.png">
+- We analysed our data using 3 different ML models, linear regression, polynomial regression and SVM regression. 
+- From the value generated, we think for our data set Polynomial Regression Model is best suited according to parameters provided.
+- For our data set, Polynomial Regression Model gave us minimum RMS error.
 
 
 
