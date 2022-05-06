@@ -52,11 +52,12 @@
 
 ## Questions:
 
-1.	What is the percentage increase or decrease of total death rate in each state ?
-2.	How well did the state handle the pandemic based on the no. of hospitalizations, recovery rate of infected people ?
-3.	Analyzing the number of mild and severe infections based on antibody and antigen tests
-4.	Predicting the increase in probable death rates in near future. 
-5.	Analyzing the data to determine the infection spread based on totalTestsViral, totalTestsPeopleViral and totalTestsEncounterViral
+1.	What is the percentage increase or decrease of total death rate in each state?
+2.	How well did the state handle the pandemic based on the no. of hospitalizations, recovery rate of infected people?
+3.	Analyzing the number of infections based on datewise and statewise registered cases.
+4.	Observation on Journey of different states in COVID-19 and clustering them into statewise.
+5.	Data analysis for one state particularly and observing the results.
+6.	Finally Prediction using Machine Learning Models.
 
 ## Analysis and Predictions:
 
